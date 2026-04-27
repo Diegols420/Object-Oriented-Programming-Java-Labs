@@ -42,6 +42,7 @@ public class FrmEmpleados extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Uso de Clases, Objetos, atributos y Métodos");
+        setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         setResizable(false);
         addWindowListener(new java.awt.event.WindowAdapter() {
             public void windowOpened(java.awt.event.WindowEvent evt) {
@@ -111,11 +112,13 @@ public class FrmEmpleados extends javax.swing.JFrame {
 
         jbtnCrear.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         jbtnCrear.setText("Crear Objeto");
+        jbtnCrear.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jbtnCrear.addActionListener(this::jbtnCrearActionPerformed);
         jPanel8.add(jbtnCrear, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, 114, 40));
 
         jbtnMostrar.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         jbtnMostrar.setText("Mostrar infromacion del objeto");
+        jbtnMostrar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jbtnMostrar.addActionListener(this::jbtnMostrarActionPerformed);
         jPanel8.add(jbtnMostrar, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 10, -1, 40));
 
