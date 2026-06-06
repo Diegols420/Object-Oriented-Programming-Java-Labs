@@ -1,5 +1,4 @@
 # ☕ Object-Oriented Programming Java Labs
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![UTP](https://img.shields.io/badge/Universidad-UTP%20Lima-orange?style=for-the-badge)
@@ -17,11 +16,12 @@ Colección de laboratorios prácticos de **POO en Java** desarrollados en la UTP
 
 | # | Laboratorio | Conceptos | Estado |
 |---|---|---|---|
-| 01 | [Gestión de Empleados](./Lab01_GestionEmpleados/) | Clases, Objetos, Encapsulamiento, Swing | ✅ Completado |
-| 02 | Herencia y Polimorfismo | Herencia, Polimorfismo, Clases abstractas | 🔄 Próximamente |
-| 03 | Interfaces | Interfaces, Abstracción | 🔄 Próximamente |
-| 04 | Colecciones | ArrayList, HashMap, Estructuras de datos | 🔄 Próximamente |
-| 05 | Excepciones | Try-catch, Excepciones personalizadas | 🔄 Próximamente |
+| 01 | [Gestión de Empleados](./Lab01_GestionEmpleados/) | Clases, Objetos, Atributos y Métodos, Swing | ✅ Completado |
+| 02 | [Encapsulamiento](./Lab02_Encapsulamiento/) | Encapsulamiento, Getters/Setters, Constructores, Código autogenerado | ✅ Completado |
+| 03 | Herencia y Polimorfismo | Herencia, Polimorfismo, Clases abstractas | 🔄 Próximamente |
+| 04 | Interfaces | Interfaces, Abstracción | 🔄 Próximamente |
+| 05 | Colecciones | ArrayList, HashMap, Estructuras de datos | 🔄 Próximamente |
+| 06 | Excepciones | Try-catch, Excepciones personalizadas | 🔄 Próximamente |
 
 ---
 
@@ -52,5 +52,4 @@ git clone https://github.com/Diegols420/Object-Oriented-Programming-Java-Labs.gi
 ---
 
 ## 📄 Licencia
-
 Este proyecto es de uso académico y está disponible bajo la licencia [MIT](LICENSE).
